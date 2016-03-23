@@ -1,8 +1,8 @@
 # test
 
-```
-  code=lalal
-  code $luslul
-  echo "test"
-  cp x y
+``` bash
+code=lalal
+code $luslul
+echo "test"
+cp x y
 ```
